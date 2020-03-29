@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> -- <muktha> <devops engineer> -- <twitter>
+muktha
+checking auto merge concept
+will see the logs
 
 # THANKS
 
